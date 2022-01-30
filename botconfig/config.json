@@ -1,0 +1,51 @@
+{
+   "token": "",
+   "prefix": "?",
+   "ownerIDS": [
+      "760756668421505026" , "695524379618181193"
+   ],
+   "status": {
+      "text": "Music",
+      "text2": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: discord.gg/OmegaV2",
+      "type": "STREAMING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "node05.lavalink.eu",
+            "port": 2333,
+            "password": "Raccoon"
+         },
+         {
+            "host": "node01.lavalink.eu",
+            "port": 2333,
+            "password": "Raccoon"
+         },
+         {
+            "host": "node02.lavalink.eu",
+            "port": 2333,
+            "password": "Raccoon"
+         },
+         {
+            "host": "node03.lavalink.eu",
+            "port": 2333,
+            "password": "Raccoon"
+         },
+         {
+            "host": "node04.lavalink.eu",
+            "port": 2333,
+            "password": "Raccoon"
+         },
+         {
+         "host": "lava.link",
+         "port": 80,
+         "password": "Raccoon"
+         }
+      ]
+   },
+   "spotify": {
+      "clientID": "5a6e9fd2c73645c7ae53dea49dc0e1b4",
+      "clientSecret": "d903c71efc1147bda1c4dbc76ba28539"
+   }
+}
